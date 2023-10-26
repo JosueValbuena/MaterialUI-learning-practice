@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Guitar 1",
+        "rating": 4.5,
+        "reviews": 450,
+        "price": 150,
+        "img": "https://m.media-amazon.com/images/I/81tQhEEtiEL._AC_UL320_.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Guitar 2",
+        "rating": 3.5,
+        "reviews": 750,
+        "price": 250,
+        "img": "https://m.media-amazon.com/images/I/71Zxyazd5XL._AC_UL320_.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Guitar 3",
+        "rating": 4,
+        "reviews": 275,
+        "price": 50,
+        "img": "https://m.media-amazon.com/images/I/61sco2QX5iL._AC_UL320_.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Guitar 4",
+        "rating": 3.5,
+        "reviews": 350,
+        "price": 200,
+        "img": "https://m.media-amazon.com/images/I/51nloVzzPAL._AC_UL320_.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Guitar 5",
+        "rating": 5,
+        "reviews": 550,
+        "price": 230,
+        "img": "https://m.media-amazon.com/images/I/71z-TxDZ8ZL._AC_UL320_.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Guitar 6",
+        "rating": 4,
+        "reviews": 150,
+        "price": 100,
+        "img": "https://m.media-amazon.com/images/I/71K-v8nc4dL._AC_UL320_.jpg"
+    }
+]
